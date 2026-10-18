@@ -1,0 +1,5 @@
+package com.smartpark.smartpark_owner
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
